@@ -1,0 +1,134 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+.container{
+    height: 100vh;
+    width: 800px;
+    background-color:#4dc478;
+    margin:0 auto ;
+    padding-top: 120px;
+    flex-wrap: wrap;
+
+}
+
+.card{
+    height:500px ;
+    width:70% ;
+    background-color: white;
+    margin: 0 auto;
+    border-radius:1%;
+    padding-top: 50px;
+    position: relative;
+
+}
+
+.appcard{
+    height: 340px;
+    width: 45%;
+    background-color:rgb(139, 227, 7);
+    margin: 0 auto;
+    border-radius: 3% 3% 0 0;
+    margin-left:20px;
+    position: absolute;
+    left: -10%;
+    
+     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+}
+
+img{
+    width:350px;
+    position: absolute;
+    left:-30% ;
+     filter: drop-shadow(6px 11px 20px #000000);;
+}
+
+
+
+.chotup{
+    height:15% ;
+    width:45%;
+    background-color: rgb(12, 240, 221);
+    margin: 0 auto;
+    padding-top: 30px;
+    border-radius: 0 0 10% 10% ;
+    margin-left:20px;
+    position: absolute;
+    top: 76%;
+    left: -10%;
+      box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+      
+}
+
+.content{
+    margin-left: 260px;
+    margin-top: 5%;
+ font-family: "Titillium Web", sans-serif;
+ font-size: smaller;
+}
+
+.btn{
+    height: 40px;
+    width: 50%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    color: white;
+    font-size: small;
+    background-color: rgb(246, 96, 62);
+    border-radius: 30%;
+    margin-top: 10%;
+    
+
+    border: none;
+}
+
+li{
+    margin-left: 5%;
+}
+
+.apple{
+     width: 45px;
+     margin-left:75%;
+
+}
+ 
+.height{
+    padding-top: 25%;
+
+
+}
+.h2{
+    padding-top: 9%;
+    font-size: x-large;
+    
+}
+  
+yellow img{
+       width: 10px;
+     margin-left:75%;
+
+}
+
+h1{
+  font-family: "Momo Trust Display";
+
+}
+ .rotateapple{
+    margin-right:275% ;
+    width:45px ;
+ }
+
+i{
+  color: white;
+  margin-top: 3%;
+}
+
+.headi{
+   font-family: "Titillium Web", sans-serif;
+   font-weight: 700;
+   font-size: x-large;
+}
+
+
